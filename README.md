@@ -1,6 +1,6 @@
 # China Post Tracking — Version 1 Template
 
-This repository contains the first-version website template for [ChinaPostTracker.com](https://www.chinaposttracker.com/). It explores how a parcel tracking site can serve two common needs: checking a shipment quickly and understanding what a carrier update actually means. The three pages connect those tasks through a shared layout, so a visitor can move between the tracking form and a guide without losing their place in the site.
+This repository contains the first-version website template for ChinaPostTracker.com. It explores how a parcel tracking site can serve two common needs: checking a shipment quickly and understanding what a carrier update actually means. The three pages connect those tasks through a shared layout, so a visitor can move between the tracking form and a guide without losing their place in the site.
 
 ## About ChinaPostTracker.com
 
