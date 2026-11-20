@@ -18,4 +18,4 @@ The pages share a paper-white background, dark navy type, and a shipping-orange 
 
 Clone or download this repository and open `parcel-tracking.html` in a browser. Keep the HTML files and `parcel-guides.css` together so the links and styles resolve. Select **Try a sample tracking number** or enter `PR123456789` to see the demonstration timeline. Open **Guides** in the navigation to visit the article list and follow the featured link to the sample article.
 
-The template runs as static HTML, CSS, and JavaScript with sample shipment data. It requires no build step, account, or API key. For current carrier updates, visit [ChinaPostTracker.com](https://www.chinaposttracker.com/).
+The template runs as static HTML, CSS, and JavaScript with sample shipment data. It requires no build step, account, or API key. For current carrier updates, visit: `www.chinaposttracker.com`
